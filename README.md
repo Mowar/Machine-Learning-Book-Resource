@@ -4,10 +4,12 @@
 
 ## Contents ##
 
-**数据挖掘导论**. 3th Edition. 其资源:课后习题答案
+**数据挖掘导论**. 3th Edition. 资源:课后习题答案
 
-**机器学习实战**. 其资源:书籍中的code
+**机器学习实战**. 资源:书籍中的code
 
-**Building Machine Learning Systems with Python**. Willi Richert,Luis Pedro Coelho.2013. 其资源: 书籍中的code,mobi、epub、opf格式的电子书
+**Building Machine Learning Systems with Python**. Willi Richert,Luis Pedro Coelho.2013. 资源: 书籍中的code,mobi、epub、opf格式的电子书
 
-**Neural Networks and Learning Machines**. 3th Edition. Simon Haykin.2008. 其资源:中文-影印版
+**Neural Networks and Learning Machines**. 3th Edition. Simon Haykin.2008. 资源:中文-影印版
+
+**Machine Learning The Art and Science of Algorithms that Make Sense of Data**. Peter Flach.Cambridge,2012 资源:ppt
